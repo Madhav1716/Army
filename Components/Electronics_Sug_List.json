@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "image": {
+      "uri": "https://cdn.shopclues.com/images/thumbnails/21524/320/320/80117666iren14269250231436270345.jpg"
+    },
+    "name": "Iron",
+    "price": "₹2000"
+  },
+  {
+    "id": "2",
+    "image": {
+      "uri": "https://img.buzzfeed.com/buzzfeed-static/static/2020-08/20/6/asset/274e17366b88/sub-buzz-4149-1597906428-10.jpg?downsize=700%3A%2A&output-quality=auto&output-format=auto"
+    },
+    "name": "Speaker",
+    "price": "₹2000"
+  },
+  {
+    "id": "3",
+    "image": {
+      "uri": "https://www.lg.com/in/images/refrigerators/md07558725/gallery/GL-N382SDSY-Refrigerators-Detailed-View-1-D-02.jpg"
+    },
+    "name": "Fridge",
+    "price": "₹20000"
+  },
+  {
+    "id": "4",
+    "image": {
+      "uri": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-card-40-iphone14pro-202209_FMT_WHH?wid=508&hei=472&fmt=p-jpg&qlt=95&.v=1663611329204"
+    },
+    "name": "Mobile Phone",
+    "price": "₹90,000"
+  },
+  {
+    "id": "5",
+    "image": {
+      "uri": "https://www.havells.com/HavellsProductImages/HavellsIndia/Content/Consumer/Appliances/Food-prepration/mixer-grinder/GHFMGEAR050/cover.png"
+    },
+    "name": "Mixer Grinder",
+    "price": "₹4,995"
+  },
+  {
+    "id": "6",
+    "image": {
+      "uri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfN6t5HizIhcEXaOozl6YaMQbGNP8Tk-zjPA&usqp=CAU"
+    },
+    "name": "Microwave",
+    "price": "₹10,000"
+  },
+  {
+    "id": "7",
+    "image": {
+      "uri": "https://media3.bosch-home.com/Product_Shots/1600x900/15916994_WGA244ASIN_STP_def.png"
+    },
+    "name": "Washing Machine",
+    "price": "₹29,999"
+  }
+]
